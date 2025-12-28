@@ -14,10 +14,14 @@ MatLager hjälper dig att:
 
 ## 🚀 Snabbstart
 
-### 1. Läs projektplanen
-Börja med att läsa **[PROJEKTPLAN.md](PROJEKTPLAN.md)** för en översikt av projektet.
+### Nyckeldokument
 
-### 2. Följ steg-för-steg-guiderna
+- 📖 **[SNABBGUIDE.md](SNABBGUIDE.md)** - Kom igång på 5 minuter
+- 📋 **[PROJEKTPLAN.md](PROJEKTPLAN.md)** - Översikt och planering
+- 🏗️ **[ARKITEKTUR.md](ARKITEKTUR.md)** - Teknisk arkitektur
+- ❓ **[FAQ.md](FAQ.md)** - Vanliga frågor och svar
+
+### Steg-för-steg-guider
 
 Alla instruktioner finns i `docs/`-mappen:
 
@@ -36,7 +40,7 @@ cd mat-lager2.0
 # Installera dependencies
 npm install
 
-# Skapa .env.local med dina API-nycklar (se STEG-1-SETUP.md)
+# Skapa .env.local med dina API-nycklar (se STEG-1-SETUP.md eller SNABBGUIDE.md)
 nano .env.local
 
 # Starta utvecklingsservern
@@ -44,6 +48,8 @@ npm run dev
 ```
 
 Öppna http://localhost:5173/ i din webbläsare.
+
+> 💡 **Tips**: Börja med [SNABBGUIDE.md](SNABBGUIDE.md) för en ultra-kompakt version, eller läs [PROJEKTPLAN.md](PROJEKTPLAN.md) för fullständig översikt.
 
 ## 🏗️ Teknisk Stack
 
