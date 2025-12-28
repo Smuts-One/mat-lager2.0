@@ -16,7 +16,9 @@ MatLager hjälper dig att:
 
 ### Nyckeldokument
 
+- 🎯 **[KOM-IGANG.md](KOM-IGANG.md)** - Visuell guide med diagram och översikt
 - 📖 **[SNABBGUIDE.md](SNABBGUIDE.md)** - Kom igång på 5 minuter
+- ☑️ **[CHECKLISTA.md](CHECKLISTA.md)** - Bocka av varje steg
 - 📋 **[PROJEKTPLAN.md](PROJEKTPLAN.md)** - Översikt och planering
 - 🏗️ **[ARKITEKTUR.md](ARKITEKTUR.md)** - Teknisk arkitektur
 - ❓ **[FAQ.md](FAQ.md)** - Vanliga frågor och svar
@@ -49,7 +51,11 @@ npm run dev
 
 Öppna http://localhost:5173/ i din webbläsare.
 
-> 💡 **Tips**: Börja med [SNABBGUIDE.md](SNABBGUIDE.md) för en ultra-kompakt version, eller läs [PROJEKTPLAN.md](PROJEKTPLAN.md) för fullständig översikt.
+> 💡 **Tips**: 
+> - Helt ny? Börja med [KOM-IGANG.md](KOM-IGANG.md) för en visuell översikt
+> - Vill ha snabb start? Läs [SNABBGUIDE.md](SNABBGUIDE.md) 
+> - Vill ha full förståelse? Börja med [PROJEKTPLAN.md](PROJEKTPLAN.md)
+> - Använd [CHECKLISTA.md](CHECKLISTA.md) för att hålla koll på ditt framsteg
 
 ## 🏗️ Teknisk Stack
 
