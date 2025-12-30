@@ -22,7 +22,7 @@
   color: #333;
 }
 
-. auth-card h1 {
+.auth-card h1 {
   text-align: center;
   margin-bottom: 0.5rem;
   color: #667eea;
@@ -58,7 +58,7 @@
   transition: background 0.2s;
 }
 
-.auth-card button:hover: not(:disabled) {
+.auth-card button:hover:not(:disabled) {
   background: #5568d3;
 }
 
@@ -67,7 +67,7 @@
   cursor: not-allowed;
 }
 
-. toggle-mode {
+.toggle-mode {
   background: transparent ! important;
   color: #667eea !important;
   margin-top: 1rem;
@@ -119,7 +119,7 @@ header h1 {
   color: #666;
 }
 
-. user-info button {
+.user-info button {
   padding: 0.5rem 1rem;
   background: #667eea;
   color: white;
